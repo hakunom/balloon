@@ -5,5 +5,6 @@
 * If you want to build the page localy, you can exec following command:
   * `docker compose up`
   * The generated files by docker is in `_site` and you can place the path as root document for HTTPS engine such as Apache, Nginx.
+  * You can see the pages as `http://localhost:4000` through web browsers.
 
 
